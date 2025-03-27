@@ -1,0 +1,13 @@
+<locale_config>
+    <locale_id>en</locale_id>
+    <text_path>../res/texts</text_path>
+    <text_domain>global</text_domain>
+    <!-- acceptLang is comma delimited ordered list of language codes without any whitespace that will be used in the "Accept-Language" HTTP header. -->
+
+    <lang_mapping>
+        <lang acceptLang="ru" egs="ru" fonts="CN" full="russian" gog="russian" languageBar="true" localeRfcName="ru" short="ru"/>
+        <lang acceptLang="en" egs="en-US" fonts="CN" full="english" gog="english" languageBar="true" localeRfcName="en" short="en"/>
+        <lang acceptLang="zh-Sg,en" egs="zh-Hans" fonts="CN" full="schinese" gog="chinese (simplified)" languageBar="true" localeRfcName="zh-sg" short="zh_sg"/>
+        <lang acceptLang="zh-Cn,en" egs="" fonts="CN" full="schinese_kong" gog="" languageBar="true" localeRfcName="zh-cn" short="zh_cn"/>
+    </lang_mapping>
+</locale_config>
