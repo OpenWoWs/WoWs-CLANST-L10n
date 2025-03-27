@@ -1,0 +1,316 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "IDS_AA_PRIORITY_SECTOR_RELOADING"
+msgstr "手动防空火力强化装填中"
+
+msgid "IDS_AIRCRAFT_CARRIER_TUTORIAL_SQUADRON_RECON_FLIGHT"
+msgstr "巡航模式/侦察模式"
+
+msgid "IDS_AIRPLANE_RECON"
+msgstr "巡航模式/侦察模式"
+
+msgid "IDS_AIRPLANE_RECON_PREF_TOOLTIP_DESCRIPTION"
+msgstr "进入侦察模式以侦察战舰。"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY058_AASCAN"
+msgstr " "
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY059_AIRSTRIKECOUNTERMEASURES"
+msgstr "减少您战舰受到所有机载武器和舰载鱼雷的伤害。"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY060_AFTERBURNER"
+msgstr ""
+"提高中队的最高航速。\n"
+"\n"
+"在此消耗品启用时，按住[CMD_THROTTLE_UP]使中队加速。"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PCY058_AASCAN"
+msgstr " "
+
+msgid "IDS_DOCK_CONSUME_TITLE_PCY059_AIRSTRIKECOUNTERMEASURES"
+msgstr "空对海及鱼雷攻击防护系统"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PCY060_AFTERBURNER"
+msgstr "中队引擎增压"
+
+msgid "IDS_PAGM2003_5IN54_MK16"
+msgstr "127 mm/54 Mk.16（Mk.39炮座）"
+
+msgid "IDS_PAGM228_5IN38_MK40_MOD33"
+msgstr " "
+
+msgid "IDS_PAPA258_127MM_HE_HC_MK41"
+msgstr "127 mm HE Mk41"
+
+msgid "IDS_PARAMS_MODIFIER_AACHARGEPERSECOND"
+msgstr "每秒进度"
+
+msgid "IDS_PARAMS_MODIFIER_AARAGEMODEMINCHARGECOEF"
+msgstr "自动防空火力强化进度"
+
+msgid "IDS_PARAMS_MODIFIER_AASHOTSPEEDMULTIPLIER"
+msgstr "伤害频率"
+
+msgid "IDS_PARAMS_MODIFIER_ACTIONTIME"
+msgstr "启用前防空炮的运作时间"
+
+msgid "IDS_PARAMS_MODIFIER_AREAPERIODDAMAGEMULTIPLIER"
+msgstr "伤害频率"
+
+msgid "IDS_PARAMS_MODIFIER_CURRENTPROGRESS"
+msgstr "当前进度"
+
+msgid "IDS_PARAMS_MODIFIER_GMROTATIONSPEED_AIRCARRIER"
+msgstr "主炮塔回转速度"
+
+msgid "IDS_PARAMS_MODIFIER_JATOSPEEDMULTIPLIER"
+msgstr "中队航速"
+
+msgid "IDS_PARAMS_MODIFIER_LASTATTACKSQUADINCOMINGDAMAGECOEFF"
+msgstr "最后一组处于攻击模式的中队收到的伤害"
+
+msgid "IDS_PARAMS_MODIFIER_MAXAURASDISTANCE"
+msgstr "防空炮射程"
+
+msgid "IDS_PARAMS_MODIFIER_RECONMAXTIMECOEFF"
+msgstr "侦察模式最大持续时间"
+
+msgid "IDS_PARAMS_MODIFIER_RECONRESTORERATECOEFF"
+msgstr "侦察模式装填速度"
+
+msgid "IDS_PARAMS_MODIFIER_RECON_CHARGERATE"
+msgstr "侦察模式装填速度"
+
+msgid "IDS_PARAMS_MODIFIER_RECON_MAXWORKTIME"
+msgstr "侦察模式最大持续时间"
+
+msgid "IDS_PARAMS_MODIFIER_VULNERABILITYTORPEDOSHIPS"
+msgstr "受到的鱼雷伤害"
+
+msgid "IDS_PAUA980_ART_UN_STATES"
+msgstr "127 mm/54 Mk.18（炮塔）"
+
+msgid "IDS_PAUA987_ART_MIDWAY"
+msgstr "127 mm/54 Mk.16（Mk.39炮座）"
+
+msgid "IDS_PAUA988_ART_NORTH_CAROLINA_2"
+msgstr "406 mm/45 Mk.6（炮塔）"
+
+msgid "IDS_PAUA992_ART_ESSEX"
+msgstr "127 mm/38 Mk.12（Mk.32炮座）"
+
+msgid "IDS_PAUA993_ART_ROOSEVELT"
+msgstr "127 mm/54 Mk.16（Mk.39炮座）"
+
+msgid "IDS_PAUA998_ART_MIDWAY"
+msgstr "127 mm/54 Mk.16（Mk.39炮座）"
+
+msgid "IDS_PAUE992_ENG_BALAO_2"
+msgstr "推进系统：5,480马力"
+
+msgid "IDS_PAUH996_BALAO_2"
+msgstr "巴劳鱵2"
+
+msgid "IDS_PBGM2001_114MM_45_MKIII"
+msgstr "113 mm/45 QF Mk.I/III（RP10 Mark II BD炮座）"
+
+msgid "IDS_PBGM2002_4_5IN_45_MK3_BD_MK2"
+msgstr "113 mm/45 Mk.III（Mk.II*** BD炮座）"
+
+msgid "IDS_PBGM2003_4_5IN_45_MK5_TWIN_R"
+msgstr "113 mm/45 QF Mk.7 mod.P（RP 41 Mk.VII炮座）"
+
+msgid "IDS_PBGM2004_4_5IN_45_MK5_TWIN_L"
+msgstr "113 mm/45 QF Mk.7 mod.P（RP 41 Mk.VII炮座）"
+
+msgid "IDS_PBPA152_114MM_HE_MK16_EAGLE"
+msgstr "113 mm HE Mk XVI"
+
+msgid "IDS_PBPA219_114MM_HE_MK16"
+msgstr "113 mm HE Mk XVI"
+
+msgid "IDS_PBPA236_114MM_MII_HE"
+msgstr "113 mm HE 5crh"
+
+msgid "IDS_PBUA798_ART_INDOMITABLE"
+msgstr "113 mm/45 QF Mk.I/III（RP10 Mark II BD炮座）"
+
+msgid "IDS_PBUA799_ART_IMPLACABLE"
+msgstr "113 mm/45 QF Mk.I/III（RP10 Mark II BD炮座）"
+
+msgid "IDS_PBUA970_ART_MALTA"
+msgstr "113 mm/45 QF Mk.7 mod.P（RP 41 Mk.VII炮座）"
+
+msgid "IDS_PBUA980_ART_EAGLE"
+msgstr "113 mm/45 Mk.III（Mk.II*** BD炮座）"
+
+msgid "IDS_PBUA998_ART_AUDACIOUS"
+msgstr "113 mm/45 QF Mk.I/III（RP10 Mark II BD炮座）"
+
+msgid "IDS_PGGM2002_105MM_DOPL_C38"
+msgstr "105 mm/65 SK C/33（Dop. L. C/37炮座）"
+
+msgid "IDS_PGPA150_105MM_HE_HE_33LBS_W_VOSS"
+msgstr "105 mm Spr.Gr. Kz."
+
+msgid "IDS_PGUA980_ART_IMMELMANN"
+msgstr "105 mm/65 SK C/33（Dop. L. C/38炮座）"
+
+msgid "IDS_PGUA981_ART_WERNER_VOSS"
+msgstr "105 mm/65 SK C/33（Dop. L. C/38炮座）"
+
+msgid "IDS_PGUA982_ART_RICHTHOFEN"
+msgstr "105 mm/65 SK C/33（Dop. L. C/38炮座）"
+
+msgid "IDS_PJGM2000_100MM65_TYPE_98"
+msgstr "100 mm/65 Type 98（双联炮塔）"
+
+msgid "IDS_PJGM2002_127MM40_TYPE_89"
+msgstr "127 mm/40 Type 89（Model A1炮座）"
+
+msgid "IDS_PJPA160_SHELL_100MM_HE_C_TYPE_98_HAKURYU"
+msgstr "100 mm HE Type98"
+
+msgid "IDS_PJPA178_SHELL_127MM_HE_C_TYPE_0_SHINANO"
+msgstr "127 mm HE Type0"
+
+msgid "IDS_PJUA981_ART_SEKIRYU"
+msgstr "100 mm/65 Type 98（Model A炮座）"
+
+msgid "IDS_PJUA982_ART_HAKURYU"
+msgstr "100 mm/65 Type 98（Model A炮座）"
+
+msgid "IDS_PJUA984_ART_SHINANO"
+msgstr "127 mm/40 Type 89（Model A1炮座）"
+
+msgid "IDS_PRUA998_CV10_ART"
+msgstr "130 mm/58（BL-132炮座）"
+
+msgid "IDS_PRUA999_CV10_ART"
+msgstr "130 mm/58（BL-132炮座）"
+
+msgid "IDS_RECON_DESCRIPTION"
+msgstr ""
+"中队下降到一定高度，以侦察敌舰。进入到侦察模式后，您也可以随时进入攻击模式。\n"
+"按[CMD_RECON]让中队爬升以回到巡航模式。"
+
+msgid "IDS_RECON_NOT_ENOUGH_CHARGE"
+msgstr "无法切换到侦察模式。让中队返回航空母舰以重新装填该模式。"
+
+msgid "IDS_RECON_SUBTITLE"
+msgstr "中队飞行模式"
+
+msgid "IDS_RECON_TITLE"
+msgstr "侦察模式"
+
+msgid "IDS_RECON_WRONG_STATE"
+msgstr "无法切换至侦察模式"
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_SQUADRON_BLIND"
+msgstr "强化防御型对空火力"
+
+msgid "IDS_RIBBON_RIBBON_SQUADRON_BLIND"
+msgstr "致盲敌机"
+
+msgid "IDS_SHIP_AA_STATE_AA_CHARGED"
+msgstr "自动防空火力强化"
+
+msgid "IDS_SHIP_AA_STATE_AA_CHARGING"
+msgstr "自动防空火力强化"
+
+msgid "IDS_SHIP_PARAM_AA_AUTOMATIC_ENHANCEMENT"
+msgstr ""
+"提高防空火力的强度。\n"
+"\n"
+"当进度条达到100%时，自动启用。防空炮在运作时，进度条会慢慢推进。\n"
+"\n"
+"启用后，自动防空火力强化的进度会开始消耗。当防空炮不在运作时，进度消耗更慢。"
+
+msgid "IDS_SHIP_PARAM_AA_AUTOMATIC_ENHANCEMENT_TITLE"
+msgstr "自动防空火力强化"
+
+msgid "IDS_SHIP_PARAM_AA_ENHANCEMENT_TITLE"
+msgstr "防空火力强化"
+
+msgid "IDS_SHIP_PARAM_AA_MANUAL_COOLDOWN"
+msgstr "装填时间"
+
+msgid "IDS_SHIP_PARAM_AA_MANUAL_ENHANCEMENT"
+msgstr ""
+"提高防空火力的强度。\n"
+"\n"
+"瞬时对您正在攻击的中队造成相当于其生命值一定百分比的伤害。\n"
+"\n"
+"按[CMD_SET_PRIORITY_SECTOR]启用"
+
+msgid "IDS_SHIP_PARAM_AA_MANUAL_ENHANCEMENT_TITLE"
+msgstr "手动防空火力强化"
+
+msgid "IDS_SHIP_PARAM_AA_MANUAL_WORKTIME"
+msgstr "作用时间"
+
+msgid "IDS_SHIP_PARAM_AA_RAGEMODE_CHARGETIME"
+msgstr "启用前防空炮的运作时间"
+
+msgid "IDS_SHIP_PARAM_AA_RAGEMODE_MANUALDAMAGE"
+msgstr "瞬时伤害"
+
+msgid "IDS_SHIP_PARAM_ACTIVE_EFFECT_TYPE_SHIP_STATE"
+msgstr "战舰状态"
+
+msgid "IDS_SHIP_PARAM_ACTIVE_EFFECT_TYPE_SQUADRON_STATE"
+msgstr "中队状态"
+
+msgid "IDS_SHIP_PARAM_SQUADRON_RECON_MAX_TIME"
+msgstr "侦察模式最大持续时间"
+
+msgid "IDS_SHIP_PARAM_SQUADRON_RECON_START_TIME"
+msgstr "战斗开始时侦察模式的限制"
+
+msgid "IDS_SKILL_DESC_PLANES_LAST_ATTACK_SQUAD_INCOMING_DAMAGE"
+msgstr " "
+
+msgid "IDS_SKILL_DESC_PLANES_RECON_MAX_DURATION"
+msgstr " "
+
+msgid "IDS_SKILL_DESC_PLANES_RECON_RECOVERY_RATE"
+msgstr " "
+
+msgid "IDS_SKILL_PLANES_LAST_ATTACK_SQUAD_INCOMING_DAMAGE"
+msgstr "钢铁之翼"
+
+msgid "IDS_SKILL_PLANES_RECON_MAX_DURATION"
+msgstr "目不转睛"
+
+msgid "IDS_SKILL_PLANES_RECON_RECOVERY_RATE"
+msgstr "侦察专家"
+
+msgid "IDS_SQUADRON_STATE_FROM_RECON"
+msgstr "[正在爬升]"
+
+msgid "IDS_SQUADRON_STATE_HIGH_ALTITUDE"
+msgstr "巡航模式"
+
+msgid "IDS_SQUADRON_STATE_RECON"
+msgstr "侦察模式"
+
+msgid "IDS_SQUADRON_STATE_TO_RECON"
+msgstr "[正在下降至侦察高度]"
+
+msgid "IDS_STATE_SQUADRON_CHANGING_HEIGHT"
+msgstr "[当前中队序列正在改变高度]"
+
+msgid "IDS_TRAVEL_MODE_WRONG_STATE"
+msgstr "无法切换至巡航模式"
